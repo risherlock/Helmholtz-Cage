@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:export-filename="/home/sherlock/Downloads/logo.png"
+   inkscape:export-filename="/home/sherlock/Documents/GitHub/Helmholtz-Cage/documents/logo/logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -34,8 +34,8 @@
      inkscape:snap-midpoints="true"
      showguides="false"
      inkscape:zoom="1.4289282"
-     inkscape:cx="358.31052"
-     inkscape:cy="559.86019"
+     inkscape:cx="373.00685"
+     inkscape:cy="575.25634"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -76,37 +76,37 @@
        id="rect1043"
        width="5"
        height="100"
-       x="70"
-       y="98.5" />
+       x="72.499992"
+       y="98.499992" />
     <rect
        style="fill:#786721;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect1043-3"
        width="5"
        height="100"
-       x="135"
-       y="98.5" />
+       x="132.5"
+       y="98.499992" />
     <rect
-       style="fill:#554400;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.000486187"
-       id="rect1043-6-7"
-       width="5"
-       height="100"
-       x="113.5"
-       y="-155"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#554400;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.000486187"
+       style="fill:#aa8800;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.000486187"
        id="rect1043-6"
        width="4.999999"
        height="100"
-       x="178.5"
+       x="176"
+       y="-155"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#aa8800;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.000486187"
+       id="rect1043-6-3"
+       width="4.999999"
+       height="100"
+       x="115.99999"
        y="-155"
        transform="rotate(90)" />
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect21623"
-       width="60"
-       height="60"
-       x="75"
-       y="118.5" />
+       width="55"
+       height="55"
+       x="77.499992"
+       y="120.99999" />
   </g>
 </svg>
