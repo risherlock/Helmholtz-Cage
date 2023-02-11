@@ -11,3 +11,5 @@ High precision three-axis magnetic field simulator for Low Earth Orbits.
 - [ ] Test the TLE parser
 - [ ] Test IGRF model C++ implementation against standard implementations.
 - [ ] Simple C++ Kepler orbit propagator.
+
+Most of the matematical models related to ADCS used in this project are maintained in this [repository](https://github.com/risherlock/ADCS).
