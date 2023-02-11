@@ -8,5 +8,6 @@ High precision three-axis magnetic field simulator for Low Earth Orbits.
 ## todo
 - [ ] Design system architecture.
 - [ ] Single axis ptorotype with system identification and LQR?
+- [ ] Test the TLE parser
 - [ ] Test IGRF model C++ implementation against standard implementations.
 - [ ] Simple C++ Kepler orbit propagator.
